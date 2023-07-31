@@ -1,3 +1,6 @@
+备用：passwall：https://github.com/xiaorouji/openwrt-passwall
+     lucky：https://github.com/gdy666/lucky  && https://github.com/sirpdboy/luci-app-lucky
+     
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
