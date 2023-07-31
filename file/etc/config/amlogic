@@ -1,5 +1,5 @@
 config amlogic 'config'
-	option amlogic_firmware_repo 'https://github.com/iceyheart/N1-OpenWrt-Lede'
+	option amlogic_firmware_repo 'https://github.com/yndoc/F-OpenWrt'
 	option amlogic_firmware_tag 's905d'
 	option amlogic_firmware_suffix '.img.gz'
 	option amlogic_kernel_path 'https://github.com/breakings/OpenWrt/tree/main/opt/kernel'
