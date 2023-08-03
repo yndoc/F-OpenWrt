@@ -41,4 +41,4 @@ svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/l
 #Add luci-app-adguardhome
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/lean/luci-app-adguardhome
 #add lucky
-#git clone  https://github.com/gdy666/luci-app-lucky.git package/lean/lucky
+git clone  https://github.com/gdy666/luci-app-lucky.git package/lean/lucky
